@@ -65,3 +65,13 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+
+# Virtual Environment (installed in root)
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Temporary connection test script
+test_db.py
+
